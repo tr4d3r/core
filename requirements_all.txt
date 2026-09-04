@@ -1041,7 +1041,7 @@ gstreamer-player==1.1.2
 guppy3==3.1.4.post1
 
 # homeassistant.components.iaqualink
-h2==4.1.0
+h2==4.4.1
 
 # homeassistant.components.generic
 # homeassistant.components.stream
